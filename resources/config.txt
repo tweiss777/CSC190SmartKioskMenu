@@ -1,0 +1,16 @@
+Ribeye Steak
+20-oz juicy steak marinated in special sauce.
+$29.99
+ribeye.jpg
+Chicken Parm
+Juicy Chicken Parm
+$5.99
+chickenparm.jpg
+Penne Ala Vodka
+Fresh pasta with vodka sauce along with graded parmesan cheese
+$10.99
+pasta.jpg
+Caesar salad
+Romaine lettuce with caesar dressing
+$6.99
+salad.jpg
