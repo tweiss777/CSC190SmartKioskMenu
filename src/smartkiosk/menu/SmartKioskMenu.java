@@ -139,7 +139,7 @@ public class SmartKioskMenu extends Application {
             @Override
             public void handle(ActionEvent event){
                 index--; 
-                if(index < 1){
+                if(index < dishList.size()-1){
                     next.setDisable(false);
                 }
                 Name.setText(dishList.get(index).getName());
